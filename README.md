@@ -8,4 +8,4 @@ I am willing to improve the open-source community around orchestration and auto-
 My skills' list and contact are available on my personal website [here](https://resume.rico.ovh/). 📫
 
 
-I currently work as a Kubernetes lead software engineer [@OVHcloud](ovhcloud.com). ⛅️
+I currently work as a Kubernetes lead software engineer [@OVHcloud](https://ovhcloud.com). ⛅️
