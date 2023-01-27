@@ -1,3 +1,9 @@
+<img 
+  src="https://user-images.githubusercontent.com/7138764/215118340-3275fb75-d01b-4161-8be9-782b4da4c5c3.gif"
+  width="100%"
+  style="display: block; margin: 0 auto"
+/>
+     
 ### Hello there 👋
 
 I am a french developer who loves well-designed and well-documented code, but mostly loves beer and cheese. 🍺 🧀
