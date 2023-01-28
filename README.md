@@ -1,5 +1,5 @@
 <img 
-  src="https://user-images.githubusercontent.com/7138764/215118340-3275fb75-d01b-4161-8be9-782b4da4c5c3.gif"
+  src="https://user-images.githubusercontent.com/7138764/215279675-5e0827a2-1785-439f-a81d-24d7dc8fd8cd.gif"
   alt="Banner Rico software engineer from Lille"
   width="100%"
   style="display: block; margin: 0 auto"
