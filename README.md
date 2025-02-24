@@ -7,8 +7,7 @@
 
 ### About me
 
-👨‍💻 Software Engineer since 2016 \
-☁️  and Cloud native SRE \
+👨‍💻 Platform Engineer since 2016 \
 📚 Studied at Epitech Lille, bachelor degree \
 📍 Based in Lille, often in Paris \
 🩺 Currently working at [@Alan](https://alan.com/) \
